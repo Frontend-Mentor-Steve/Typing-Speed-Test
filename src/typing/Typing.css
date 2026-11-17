@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.25rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  padding-inline: 5.5rem;
+  padding-block-start: 0.75rem;
+  align-items: center;
+
+  .personal {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    color: #707070;
+
+    span {
+      color: white;
+    }
+  }
+}

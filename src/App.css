@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "sora-variable";
+  src: url("assets/fonts/Sora-VariableFont_wght.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #161616;
+  color: white;
+  font-family: "sora-variable", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
